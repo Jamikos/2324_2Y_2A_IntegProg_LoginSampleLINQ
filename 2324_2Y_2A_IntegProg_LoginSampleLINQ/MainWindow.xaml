@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_2324_2Y_2A_IntegProg_LoginSampleLINQ"
         mc:Ignorable="d"
-        Title="MainWindow" Height="205" Width="387">
+        Title="MainWindow" Height="125" Width="155" ResizeMode="NoResize">
     <Grid>
         <TextBox x:Name="txtbUserName" HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <TextBox x:Name="txtbPassword" HorizontalAlignment="Left" Margin="10,33,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
